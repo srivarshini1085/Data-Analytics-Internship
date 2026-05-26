@@ -1,0 +1,13 @@
+
+DATA CLEANING REPORT
+--------------------
+Total Rows: 12
+Total Columns: 4
+
+Columns:
+['Month', ' "1958"', ' "1959"', ' "1960"']
+
+Missing values removed
+Duplicate rows removed
+
+Data cleaning completed successfully.
